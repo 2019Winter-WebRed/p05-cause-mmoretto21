@@ -1,0 +1,113 @@
+/*
+*Mia Moretto
+Class work
+Css-template.css
+*/
+
+/* the universal selector */
+*{margin:0;
+    padding:0;
+} 
+
+/* Body attributes here */
+
+
+
+header{
+ text-align: center;
+  margin: 12px;
+    border:4px solid gray;
+}
+
+
+/* header centers, sizes, borders the title of the page/color of the border for the title */ 
+
+h1{
+    
+    color: greenyellow;
+}
+
+h2{
+    
+color:palevioletred;
+ 
+ /* h1, h2 - changes the colors of the headings for both the header and sub headings for the topics */    
+    
+}
+#twopandasinthesnow{
+height:125px;
+width:125px;
+float:center;
+margin:10px;
+border:4px dashed navy; 
+}
+
+/* # = all of the heights, widths, positions (left, right..) margin size, border size, style, color for the Images in my page */ 
+
+#twobabypandasonbamboo{
+ height:125px;
+ width:125px;
+ float:center;
+ margin:10px;
+ border:4px dashed navy;
+    
+    
+    
+}
+
+#pandamap{
+height:200px;
+width:200px
+float:right;
+margin:10px;
+border:2px dashed navy;      
+}
+
+
+#babypandainatree{
+height:125px;
+width:125px;
+float:left;
+margin:10px;    
+border:4px dashed navy;           
+}
+
+#pandainatree{
+    height: 125px;
+    width: 125px;
+    float: left;
+    margin: 10px;
+    border: 4px dashed navy; 
+}
+
+#babypandasbamboo{
+height: 125px;
+width: 125px;
+float: left;
+margin: 10px;
+border: 4px dashed navy;       
+}
+
+
+
+body{ 
+    background-color: aliceblue;
+    margin: 10px; 
+    
+    /* color and margin for the body sets the color for the background color, size of the main part of the page */ 
+    
+} 
+
+#waving_pandas {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 15px;
+    border: 2px dashed navy;
+}
+
+footer{
+    clear: both;
+}
+
+
